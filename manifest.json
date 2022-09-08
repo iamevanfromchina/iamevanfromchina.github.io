@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "iamevanfromchina.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "iamevanfromchina.github",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
